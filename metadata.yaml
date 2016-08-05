@@ -1,0 +1,33 @@
+_repo: Dryden-s-Palamon-and-Arcite_7490
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Dryden, John
+    birthdate: 1631
+    deathdate: 1700
+    gutenberg_agent_id: '807'
+    url: http://www.gutenberg.org/2009/agents/807
+    wikipedia: http://en.wikipedia.org/wiki/John_Dryden
+  - agent_name: Chaucer, Geoffrey
+    alias: Chaucer, Jeffrey
+    birthdate: 1342
+    deathdate: 1400
+    gutenberg_agent_id: '144'
+    url: http://www.gutenberg.org/2009/agents/144
+    wikipedia: http://en.wikipedia.org/wiki/Geoffrey_Chaucer
+description: ''
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7490'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- Early modern, 1500-1700'
+- !lcsh 'Chaucer, Geoffrey, -1400. Knight''s tale -- Adaptations'
+- !lcc 'PR'
+- GITenberg
+title: Dryden's Palamon and Arcite
+url: http://www.gutenberg.org/ebooks/7490
